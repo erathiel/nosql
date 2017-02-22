@@ -1,2 +1,2 @@
-# nosql
+# NoSQL
 Zadania z Technologii NoSQL
