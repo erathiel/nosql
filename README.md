@@ -1,7 +1,7 @@
 # Amelia Błachuciak
 ## Zadania z Technologii NoSQL:
 
-Wybrany zbiór danych - [Steam Database](http://steam.internet.byu.edu/)
+Wybrany zbiór danych - [Zapytania i tagi ze StackOverflow](https://github.com/dgrtwo/StackLite)
 
 1. Zaliczenie:
  - [ ] EDA
@@ -18,4 +18,4 @@ Informacje o komputerze na którym były wykonywane obliczenia:
 | Ilość rdzeni          | 4 Cores/8 Threads   |
 | Pamięć                | 16 GB DDR4-2400     |
 | Dysk                  | 256 GB SSD          |
-| Baza danych           | [Steam Database](http://steam.internet.byu.edu/) |
+| Baza danych           | TBD                 |
