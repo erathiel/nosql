@@ -1,0 +1,705 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.22350311279297,
+          38.736026763916016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.332275390625,
+          38.78125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.086669921875,
+          39.070220947265625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.29533386230469,
+          36.177860260009766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.04785919189453,
+          39.64986038208008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.09180450439453,
+          39.665889739990234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.07144165039062,
+          39.62669372558594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.08905792236328,
+          39.642555236816406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.04010772705078,
+          39.532081604003906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.02703094482422,
+          39.51074981689453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.03263854980469,
+          39.48036193847656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.30358123779297,
+          36.05402755737305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.07646942138672,
+          39.4646110534668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.08838653564453,
+          39.4820556640625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.10388946533203,
+          39.466835021972656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.75391387939453,
+          36.42372131347656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.71094512939453,
+          36.37586212158203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.72663879394531,
+          36.37350082397461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.27958679199219,
+          39.677276611328125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.73674774169922,
+          36.35380554199219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5185546875,
+          36.09516525268555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.52899932861328,
+          36.09544372558594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.54241943359375,
+          36.098777770996094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.97049713134766,
+          36.48605728149414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.69178009033203,
+          36.1829719543457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.61933135986328,
+          36.105194091796875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.89608001708984,
+          36.3930549621582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7341079711914,
+          36.215248107910156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.76697540283203,
+          36.2222785949707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.57669067382812,
+          39.7891960144043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.13075256347656,
+          39.071556091308594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.1578369140625,
+          39.09958267211914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.13616943359375,
+          39.05580520629883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.1812744140625,
+          39.10702896118164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.2088623046875,
+          39.10852813720703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.20116424560547,
+          39.074195861816406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.18152618408203,
+          39.03244400024414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.19758605957031,
+          39.04533386230469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.21499633789062,
+          39.02780532836914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.23072052001953,
+          39.046417236328125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.76930236816406,
+          39.804222106933594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.78175354003906,
+          39.7991943359375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.83419799804688,
+          39.80033493041992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.84455871582031,
+          39.77747344970703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.88336181640625,
+          39.784751892089844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.87980651855469,
+          39.77288818359375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.90055847167969,
+          39.776527404785156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.26838684082031,
+          39.80397033691406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.27527618408203,
+          39.8142204284668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "BD130",
+        "CODE_DESC": "Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.27752685546875,
+          39.792972564697266
+        ]
+      }
+    }
+  ]
+}
