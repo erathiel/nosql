@@ -3,8 +3,10 @@
 
 Wybrany zbiór danych - [Zapytania i tagi ze StackOverflow](https://github.com/dgrtwo/StackLite)
 
+[Lista zadań](https://erathiel.github.io/nosql/)
+
 1. Zaliczenie:
- - [ ] EDA
+ - [x] EDA
  - [ ] Aggregation Pipeline
 1. Egzamin:
  - [ ] MapReduce
